@@ -8,15 +8,6 @@
 
 ![Demo](http://www.youtube.com/watch?v=9pqrjH9NmlM "Demo")
 
-(http://img.youtube.com/vi/9pqrjH9NmlM/0.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9pqrjH9NmlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=[9pqrjH9NmlM])](http://www.youtube.com/watch?v=9pqrjH9NmlM "Everything Is AWESOME")
-
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=9pqrjH9NmlM?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-
 ## A Deep Learning based approach to detect ships from satellite images. 
 
 Implementation of this repository has been kept confidential for the time being due to confidentiality agreement but these are some of the outputs from the Experimentaion :
