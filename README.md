@@ -12,6 +12,9 @@
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=[9pqrjH9NmlM])](http://www.youtube.com/watch?v=9pqrjH9NmlM "Everything Is AWESOME")
 
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=9pqrjH9NmlM?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+
 ## A Deep Learning based approach to detect ships from satellite images. 
 
 Implementation of this repository has been kept confidential for the time being due to confidentiality agreement but these are some of the outputs from the Experimentaion :
