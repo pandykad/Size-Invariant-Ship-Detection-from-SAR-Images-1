@@ -6,7 +6,9 @@
 - Automated Identification System (AIS) are very effective at monitoring ships which are legally required to install a VHF transponder, but fail to detect those which are not, and those which disconnect their transponder.
 - So how do you detect these uncooperative ships? The solution is using: Synthetic Aperture Radar (SAR)
 
-[![Demo](http://img.youtube.com/vi/9pqrjH9NmlM/0.jpg)](http://www.youtube.com/watch?v=9pqrjH9NmlM "Demo")
+[![Demo](http://www.youtube.com/watch?v=9pqrjH9NmlM "Demo")
+
+(http://img.youtube.com/vi/9pqrjH9NmlM/0.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9pqrjH9NmlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
