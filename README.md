@@ -6,6 +6,8 @@
 - Automated Identification System (AIS) are very effective at monitoring ships which are legally required to install a VHF transponder, but fail to detect those which are not, and those which disconnect their transponder.
 - So how do you detect these uncooperative ships? The solution is using: Synthetic Aperture Radar (SAR)
 
+[![Watch the video](https://github.com/AmeyaK17/Size-Invariant-Ship-Detection-from-SAR-Images/blob/master/Images/Ship.gif)](https://youtu.be/vt5fpE0bzSY)
+
 ## A Deep Learning based approach to detect ships from satellite images. 
 
 Implementation of this repository has been kept confidential for the time being due to confidentiality agreement but these are some of the outputs from the Experimentaion :
